@@ -1,0 +1,11 @@
+.opeennav{
+    width: 0;
+    height: 100%;
+    position: fixed;
+    overflow-x: hidden;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding-top: 60px;
+    transition: 0.5s;
+}
